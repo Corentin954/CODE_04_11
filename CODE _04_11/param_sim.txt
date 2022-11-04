@@ -1,0 +1,4 @@
+	Cas test Etain choc faible (u0=200 m/s), CFL=0.8
+	114
+	1
+solveur acoustique nx=400

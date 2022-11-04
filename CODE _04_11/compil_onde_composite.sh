@@ -1,0 +1,1 @@
+gcc main_sol_onde_composite.c cal_front.c hugoniot.c EOS_etain.c allocfree.c -lm
